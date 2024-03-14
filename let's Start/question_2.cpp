@@ -5,9 +5,6 @@
 using namespace std;
 
 int main(){
-    int a;
-    cout<<"enter the value for a: "<<endl;
-    cin>> a;
-    cout<<"the value for a = "<<a;
-    
+    int a = 45;
+    cout<<"you entered the value = "<<a;
     }
